@@ -19,7 +19,7 @@ role: Graduate Student in Complex Systems and Data Science
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of Vermont
-    url: https://www.uvm.edu/
+    #url: https://www.uvm.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My interests include network science, complex social systems, decision-making uncertainty, and public policy.
@@ -51,7 +51,7 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/ErikWeis
+    link: https://twitter.com/weiserik
     label: Follow me on Twitter
     display:
       header: true
@@ -78,5 +78,5 @@ email: ''
 highlight_name: true
 ---
 
-I am a graduate student in Complex Systems and Data Science at the [Vermont Complex Systems Center](vermontcomplexsystems.org). My research involves network science, Bayesian statistics, complex systems, and decision theory. I'm interested in the application of these tools to improve decision-making in complex social systems.
+I am a graduate student in Complex Systems and Data Science at the [Vermont Complex Systems Center](https://vermontcomplexsystems.org). My research involves network science, Bayesian statistics, complex systems, and decision theory. I'm interested in the application of these tools to improve decision-making in complex social systems.
 {style="text-align: justify;"}
